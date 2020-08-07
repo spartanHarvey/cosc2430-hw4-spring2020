@@ -1,0 +1,3 @@
+DECODE:[A regular message](1)
+DECODE:[This one won't have any output](1)
+DECODE:[So your file should be blank](1)
