@@ -1,0 +1,1 @@
+which decode will end up printing?
